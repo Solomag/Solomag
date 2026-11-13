@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./metrics.svg" alt="Solomag's GitHub metrics">
+</p>
+
 ### Hi, I'm Solo 👋
 
 I make small tools that remove annoyances: ads, clutter and missing features in apps I use every day.
@@ -28,10 +32,3 @@ Mostly Android mods, Windows utilities, browser extensions and game tools.
 
 #### 🎵 Tidal
 [solo-luna-theme](https://github.com/Solomag/solo-luna-theme) — my theme for the TidaLuna client mod.
-
----
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Solomag&show_icons=true&hide_border=true&theme=transparent" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solomag&layout=compact&hide_border=true&theme=transparent" height="150" alt="Top languages" />
-</p>
