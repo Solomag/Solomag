@@ -5,7 +5,7 @@
 ### Hi, I'm Solo 👋
 
 I make small tools that remove annoyances: ads, clutter and missing features in apps I use every day.
-Mostly Android mods, Windows utilities, browser extensions and game tools.
+Mostly Android mods, Windows utilities, browser extensions and game tools — all free and open source.
 
 **Stack:** Kotlin · C# · TypeScript · JavaScript · Xposed/LSPosed · Frida · BepInEx
 
