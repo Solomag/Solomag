@@ -11,6 +11,9 @@ Mostly Android mods, Windows utilities, browser extensions and game tools — al
 
 ---
 
+#### ⭐ Featured
+**[scryfall-toolkit](https://github.com/Solomag/scryfall-toolkit)** — browser extension for Scryfall: shared card clipboard, Tagger tags, extra format legalities, dark theme, EDHREC and CardTrader data. Available on the [Chrome Web Store](https://chromewebstore.google.com/detail/scryfall-toolkit-preview/ofpociogpmmgfjgjnfppnllabhjjnclf).
+
 #### 📻 Radio
 | Project | What it is |
 |---|---|
@@ -20,8 +23,8 @@ Mostly Android mods, Windows utilities, browser extensions and game tools — al
 #### 🛡️ Ad-free Android (Xposed / LSPosed)
 | Project | What it is |
 |---|---|
-| [**playstore-adblock**](https://github.com/Solomag/playstore-adblock) | Removes ads, sponsored apps and promoted recommendations from Google Play. |
-| [**FacebookAppAdsRemover**](https://github.com/Solomag/FacebookAppAdsRemover) | Removes ads from the Facebook app. |
+| [**playstore-adblock**](https://github.com/hxreborn/playstore-adblock) | Removes ads, sponsored apps and promoted recommendations from Google Play. *Contributor.* |
+| [**FacebookAppAdsRemover**](https://github.com/Loukious/FacebookAppAdsRemover) | Removes ads from the Facebook app. *Contributor.* |
 
 #### 🪟 Windhawk mods
 | Mod | What it does |
@@ -29,12 +32,8 @@ Mostly Android mods, Windows utilities, browser extensions and game tools — al
 | [**Hide Empty Optical Drives**](https://windhawk.net/mods/hide-empty-optical-drives-shell) | Hides empty CD/DVD/BD drives from This PC while keeping them usable. |
 | [**Tray Ghost Icon Cleaner**](https://github.com/ramensoftware/windhawk-mods/pull/7582) | Removes tray icons left behind by crashed or killed programs right away. *In review.* |
 
-#### 🃏 Cards & games
+#### 🃏 Games
 | Project | What it is |
 |---|---|
-| [**scryfall-toolkit**](https://github.com/Solomag/scryfall-toolkit) | Browser extension for Scryfall: shared card clipboard, Tagger tags, extra legalities, dark theme, EDHREC and CardTrader data. |
 | [**RDT-Android**](https://github.com/Solomag/RDT-Android) | Deck tracker for the TESL Reborn Android port (Frida). |
-| [**sts2mm-profiles**](https://github.com/Solomag/sts2mm-profiles) | Shared mod profiles for STS2 Mod Manager. |
 
-#### 🎵 Tidal
-[solo-luna-theme](https://github.com/Solomag/solo-luna-theme) — my theme for the TidaLuna client mod.
