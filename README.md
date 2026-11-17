@@ -12,7 +12,9 @@ Mostly Android mods, Windows utilities, browser extensions and game tools — al
 ---
 
 #### ⭐ Featured
-**[scryfall-toolkit](https://github.com/Solomag/scryfall-toolkit)** — browser extension for Scryfall: shared card clipboard, Tagger tags, extra format legalities, dark theme, EDHREC and CardTrader data. Available on the [Chrome Web Store](https://chromewebstore.google.com/detail/scryfall-toolkit-preview/ofpociogpmmgfjgjnfppnllabhjjnclf).
+**[tesl-reborn-android](https://github.com/ssorgatem/tesl-reborn-android)** — brings The Elder Scrolls: Legends back to Android on the TESL Reborn servers. A Builder patches the original game APK (no root), hooks add fixes and features, and updates arrive over the air. *Main contributor.*
+
+**[scryfall-toolkit](https://github.com/Solomag/scryfall-toolkit)** — browser extension for Scryfall: shared card clipboard, Tagger tags, extra format legalities, dark theme, EDHREC and CardTrader data. Available for [Chrome](https://chromewebstore.google.com/detail/scryfall-toolkit-preview/ofpociogpmmgfjgjnfppnllabhjjnclf) and [Firefox](https://addons.mozilla.org/firefox/addon/scryfall-toolkit/).
 
 #### 📻 Radio
 | Project | What it is |
