@@ -23,6 +23,12 @@ Mostly Android mods, Windows utilities, browser extensions and game tools — al
 | [**playstore-adblock**](https://github.com/Solomag/playstore-adblock) | Removes ads, sponsored apps and promoted recommendations from Google Play. |
 | [**FacebookAppAdsRemover**](https://github.com/Solomag/FacebookAppAdsRemover) | Removes ads from the Facebook app. |
 
+#### 🪟 Windhawk mods
+| Mod | What it does |
+|---|---|
+| [**Hide Empty Optical Drives**](https://windhawk.net/mods/hide-empty-optical-drives-shell) | Hides empty CD/DVD/BD drives from This PC while keeping them usable. |
+| [**Tray Ghost Icon Cleaner**](https://github.com/ramensoftware/windhawk-mods/pull/7582) | Removes tray icons left behind by crashed or killed programs right away. *In review.* |
+
 #### 🃏 Cards & games
 | Project | What it is |
 |---|---|
