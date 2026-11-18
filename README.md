@@ -22,6 +22,11 @@ Mostly Android mods, Windows utilities, browser extensions and game tools — al
 | [**GaGa**](https://github.com/Solomag/GaGa) | Tiny radio player for the Windows tray. One small exe, no install: https streams, FLAC, track titles, station search. |
 | [**LibreRadio**](https://github.com/Solomag/LibreRadio) | Free, ad-free internet radio for Android, Android Auto, TV and Automotive. |
 
+#### 🎵 Music
+| Project | What I did |
+|---|---|
+| [**TidaLuna**](https://github.com/Inrixia/TidaLuna) | Client mod for the Tidal desktop app. *Contributor:* plugin store, "Reload all", lyrics for uploaded tracks, Linux MPRIS fixes and more. |
+
 #### 🛡️ Ad-free Android (Xposed / LSPosed)
 | Project | What it is |
 |---|---|
