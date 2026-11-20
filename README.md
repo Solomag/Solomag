@@ -27,6 +27,7 @@ Mostly Android mods, Windows utilities, browser extensions and game tools — al
 |---|---|
 | [**Lunatic**](https://github.com/Solomag/lunatic-ui) | TIDAL-native settings UI and appearance editor for TidaLuna: plugin manager, plugin store, themes. |
 | [**TidaLuna**](https://github.com/Inrixia/TidaLuna) | Client mod for the Tidal desktop app. *Contributor, 36 merged PRs:* plugin store, keyboard shortcuts and playlist editing, FLAC and video downloads, Linux MPRIS fixes and more. |
+| [**luna-plugins**](https://github.com/Inrixia/luna-plugins) | Official TidaLuna plugins. *Contributor, 3 merged PRs:* full-album playlist downloads in SongDownloader, Tidal 2.47+ quality badge in TidalTags, a NativeFullscreen title bar fix. |
 
 #### 🛡️ Ad-free Android (Xposed / LSPosed)
 | Project | What it is |
