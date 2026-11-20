@@ -25,7 +25,8 @@ Mostly Android mods, Windows utilities, browser extensions and game tools — al
 #### 🎵 Music
 | Project | What I did |
 |---|---|
-| [**TidaLuna**](https://github.com/Inrixia/TidaLuna) | Client mod for the Tidal desktop app. *Contributor:* plugin store, "Reload all", lyrics for uploaded tracks, Linux MPRIS fixes and more. |
+| [**Lunatic**](https://github.com/Solomag/lunatic-ui) | TIDAL-native settings UI and appearance editor for TidaLuna: plugin manager, plugin store, themes. |
+| [**TidaLuna**](https://github.com/Inrixia/TidaLuna) | Client mod for the Tidal desktop app. *Contributor, 36 merged PRs:* plugin store, keyboard shortcuts and playlist editing, FLAC and video downloads, Linux MPRIS fixes and more. |
 
 #### 🛡️ Ad-free Android (Xposed / LSPosed)
 | Project | What it is |
@@ -37,7 +38,7 @@ Mostly Android mods, Windows utilities, browser extensions and game tools — al
 | Mod | What it does |
 |---|---|
 | [**Hide Empty Optical Drives**](https://windhawk.net/mods/hide-empty-optical-drives-shell) | Hides empty CD/DVD/BD drives from This PC while keeping them usable. |
-| [**Tray Ghost Icon Cleaner**](https://github.com/ramensoftware/windhawk-mods/pull/7582) | Removes tray icons left behind by crashed or killed programs right away. *In review.* |
+| [**Tray Ghost Icon Cleaner**](https://windhawk.net/mods/tray-ghost-cleaner) | Removes tray icons left behind by crashed or killed programs right away. |
 
 #### 🃏 Games
 | Project | What it is |
