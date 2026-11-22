@@ -26,8 +26,9 @@ Mostly Android mods, Windows utilities, browser extensions and game tools — al
 | Project | What I did |
 |---|---|
 | [**Lunatic**](https://github.com/Solomag/lunatic-ui) | TIDAL-native settings UI and appearance editor for TidaLuna: plugin manager, plugin store, themes. |
-| [**TidaLuna**](https://github.com/Inrixia/TidaLuna) | Client mod for the Tidal desktop app. *Contributor, 36 merged PRs:* plugin store, keyboard shortcuts and playlist editing, FLAC and video downloads, Linux MPRIS fixes and more. |
-| [**luna-plugins**](https://github.com/Inrixia/luna-plugins) | Official TidaLuna plugins. *Contributor, 3 merged PRs:* full-album playlist downloads in SongDownloader, Tidal 2.47+ quality badge in TidalTags, a NativeFullscreen title bar fix. |
+| [**TidalConnectTailscale**](https://github.com/Solomag/TidalConnectTailscale) | LSPosed module that shows your PC's TidaLuna receiver in TIDAL Android's device list over Tailscale, also on mobile data. |
+| [**TidaLuna**](https://github.com/Inrixia/TidaLuna) | Client mod for the Tidal desktop app. *Contributor, 42 merged PRs:* plugin store, keyboard shortcuts and playlist editing, FLAC and video downloads, Linux MPRIS fixes and more. |
+| [**luna-plugins**](https://github.com/Inrixia/luna-plugins) | Official TidaLuna plugins. *Contributor, 24 merged PRs:* DesktopConnect remote sessions, SongDownloader, TidalTags quality tags, RealMAX, LastFM and ListenBrainz scrobbling fixes. |
 
 #### 🛡️ Ad-free Android (Xposed / LSPosed)
 | Project | What it is |
